@@ -38,7 +38,7 @@ export const defaultSiteData: SiteData = {
     home: {
       hero: {
         title: 'Transforme seu futuro financeiro com quem entende de mercado.',
-        subtitle: 'as melhores soluções de crédito com taxas competitivas. Antecipação, crédito e consultoria especializada.',
+        subtitle: 'Consultoria especializada com as melhores soluções de crédito.',
         cta: 'Soluções'
       },
       quickStepsTitle: 'Rápido e Prático',
