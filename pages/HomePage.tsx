@@ -31,7 +31,7 @@ const HomePage: React.FC<HomePageProps> = ({ site }) => {
               {site.pages.home.hero.subtitle}
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start space-y-4 sm:space-y-0 sm:space-x-4 pt-4 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-300">
-              <a href="#simulacao" className="w-full sm:w-auto px-10 py-5 bg-secondary text-white rounded-2xl font-black shadow-xl hover:shadow-secondary/30 hover:-translate-y-1 transition-all flex items-center justify-center group">
+              <a href="#solucoes" className="w-full sm:w-auto px-10 py-5 bg-secondary text-white rounded-2xl font-black shadow-xl hover:shadow-secondary/30 hover:-translate-y-1 transition-all flex items-center justify-center group">
                 {site.pages.home.hero.cta}
                 <ArrowRight size={20} className="ml-2 group-hover:translate-x-1 transition-transform" />
               </a>
