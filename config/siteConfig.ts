@@ -38,7 +38,7 @@ export const defaultSiteData: SiteData = {
     home: {
       hero: {
         title: 'Transforme seu futuro financeiro com quem entende de mercado.',
-        subtitle: 'Consultoria especializada com as melhores soluções de crédito.',
+        subtitle: 'Consultoria especializada com as melhores soluções de crédito. ',
         cta: 'Soluções'
       },
       quickStepsTitle: 'Rápido e Prático',
